@@ -1,13 +1,13 @@
 {
-  "name": "pingpong2",
+  "name": "pingpong",
   "version": "1.0.0",
-  "description": "",
+  "description": "a mind game",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "kevton",
+  "license": "MIT",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
@@ -17,5 +17,13 @@
     "gulp-util": "^3.0.8",
     "jshint": "^2.9.4",
     "vinyl-source-stream": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newtonkiragu/npingpong-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/newtonkiragu/npingpong-1/issues"
+  },
+  "homepage": "https://github.com/newtonkiragu/npingpong-1#readme"
 }

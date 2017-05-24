@@ -1,0 +1,20 @@
+{
+  "name": "pingpong",
+  "description": "a mind game",
+  "main": "index.js",
+  "authors": [
+    "kevton"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/newtonkiragu/npingpong-1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
